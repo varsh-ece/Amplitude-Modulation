@@ -75,8 +75,7 @@ Compare the original modulating signal with the demodulated signal. PROCEDURE
 •	Verify the generated waveform using Tabulation and Model Waveform
 
 Program
-<img width="78" height="67" alt="image" src="https://github.com/user-attachments/assets/f6d7eb5c-1fdd-47ef-99d4-873a127aa3c7" />
-
+<img width="1018" height="906" alt="image" src="https://github.com/user-attachments/assets/c7c6e2ca-31b8-4c8a-b757-4a67b97f0c5f" />
 
 
 Output Waveform
